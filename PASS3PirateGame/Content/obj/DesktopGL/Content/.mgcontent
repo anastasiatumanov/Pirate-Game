@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>/Users/anastasia/Desktop/PASS3PirateGame/PASS3PirateGame/Content/Audio/Music/BarTheme.mp3</File>
+    <File>/Users/anastasia/Desktop/PASS3PirateGame/PASS3PirateGame/Content/Audio/Music/CemeteryMusic.mp3</File>
+    <File>/Users/anastasia/Desktop/PASS3PirateGame/PASS3PirateGame/Content/Audio/Music/GeneralMusic.mp3</File>
+    <File>/Users/anastasia/Desktop/PASS3PirateGame/PASS3PirateGame/Content/Audio/Music/IntroTheme.mp3</File>
+    <File>/Users/anastasia/Desktop/PASS3PirateGame/PASS3PirateGame/Content/Fonts/LocFont.spritefont</File>
+    <File>/Users/anastasia/Desktop/PASS3PirateGame/PASS3PirateGame/Content/Fonts/MenuFont.spritefont</File>
+    <File>/Users/anastasia/Desktop/PASS3PirateGame/PASS3PirateGame/Content/Fonts/speechFont.spritefont</File>
+    <File>/Users/anastasia/Desktop/PASS3PirateGame/PASS3PirateGame/Content/Images/Backgrounds/Boat_Deck.png</File>
+    <File>/Users/anastasia/Desktop/PASS3PirateGame/PASS3PirateGame/Content/Images/Backgrounds/Captain.png</File>
+    <File>/Users/anastasia/Desktop/PASS3PirateGame/PASS3PirateGame/Content/Images/Backgrounds/Cemetery.png</File>
+    <File>/Users/anastasia/Desktop/PASS3PirateGame/PASS3PirateGame/Content/Images/Backgrounds/Forest.png</File>
+    <File>/Users/anastasia/Desktop/PASS3PirateGame/PASS3PirateGame/Content/Images/Backgrounds/GameIntro.png</File>
+    <File>/Users/anastasia/Desktop/PASS3PirateGame/PASS3PirateGame/Content/Images/Backgrounds/Home.png</File>
+    <File>/Users/anastasia/Desktop/PASS3PirateGame/PASS3PirateGame/Content/Images/Backgrounds/Island_Map.png</File>
+    <File>/Users/anastasia/Desktop/PASS3PirateGame/PASS3PirateGame/Content/Images/Backgrounds/Pirate1.png</File>
+    <File>/Users/anastasia/Desktop/PASS3PirateGame/PASS3PirateGame/Content/Images/Backgrounds/Pub.jpg</File>
+    <File>/Users/anastasia/Desktop/PASS3PirateGame/PASS3PirateGame/Content/Images/Backgrounds/Pub_Inside.png</File>
+    <File>/Users/anastasia/Desktop/PASS3PirateGame/PASS3PirateGame/Content/Images/Backgrounds/Store.jpg</File>
+    <File>/Users/anastasia/Desktop/PASS3PirateGame/PASS3PirateGame/Content/Images/Backgrounds/Store_Inside.png</File>
+    <File>/Users/anastasia/Desktop/PASS3PirateGame/PASS3PirateGame/Content/Images/Sprites/Coin.png</File>
+    <File>/Users/anastasia/Desktop/PASS3PirateGame/PASS3PirateGame/Content/Images/Sprites/Correct.png</File>
+    <File>/Users/anastasia/Desktop/PASS3PirateGame/PASS3PirateGame/Content/Images/Sprites/Digging.png</File>
+    <File>/Users/anastasia/Desktop/PASS3PirateGame/PASS3PirateGame/Content/Images/Sprites/Dirt.png</File>
+    <File>/Users/anastasia/Desktop/PASS3PirateGame/PASS3PirateGame/Content/Images/Sprites/IntroTextAnim.png</File>
+    <File>/Users/anastasia/Desktop/PASS3PirateGame/PASS3PirateGame/Content/Images/Sprites/Lantern.png</File>
+    <File>/Users/anastasia/Desktop/PASS3PirateGame/PASS3PirateGame/Content/Images/Sprites/Level1.png</File>
+    <File>/Users/anastasia/Desktop/PASS3PirateGame/PASS3PirateGame/Content/Images/Sprites/Level1Screen.png</File>
+    <File>/Users/anastasia/Desktop/PASS3PirateGame/PASS3PirateGame/Content/Images/Sprites/Level2.png</File>
+    <File>/Users/anastasia/Desktop/PASS3PirateGame/PASS3PirateGame/Content/Images/Sprites/Level2Screen.png</File>
+    <File>/Users/anastasia/Desktop/PASS3PirateGame/PASS3PirateGame/Content/Images/Sprites/Level3.png</File>
+    <File>/Users/anastasia/Desktop/PASS3PirateGame/PASS3PirateGame/Content/Images/Sprites/Level3Screen.png</File>
+    <File>/Users/anastasia/Desktop/PASS3PirateGame/PASS3PirateGame/Content/Images/Sprites/MapIcon.png</File>
+    <File>/Users/anastasia/Desktop/PASS3PirateGame/PASS3PirateGame/Content/Images/Sprites/MapName.png</File>
+    <File>/Users/anastasia/Desktop/PASS3PirateGame/PASS3PirateGame/Content/Images/Sprites/Question1.png</File>
+    <File>/Users/anastasia/Desktop/PASS3PirateGame/PASS3PirateGame/Content/Images/Sprites/Question2.png</File>
+    <File>/Users/anastasia/Desktop/PASS3PirateGame/PASS3PirateGame/Content/Images/Sprites/Question3.png</File>
+    <File>/Users/anastasia/Desktop/PASS3PirateGame/PASS3PirateGame/Content/Images/Sprites/Shovel.png</File>
+    <File>/Users/anastasia/Desktop/PASS3PirateGame/PASS3PirateGame/Content/Images/Sprites/Standing.png</File>
+    <File>/Users/anastasia/Desktop/PASS3PirateGame/PASS3PirateGame/Content/Images/Sprites/treasure_X.png</File>
+    <File>/Users/anastasia/Desktop/PASS3PirateGame/PASS3PirateGame/Content/Images/Sprites/Walking.png</File>
+    <File>/Users/anastasia/Desktop/PASS3PirateGame/PASS3PirateGame/Content/Images/Sprites/Wrong.png</File>
+    <File>/Users/anastasia/Desktop/PASS3PirateGame/PASS3PirateGame/Content/Images/Sprites/X_On_Map.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>
